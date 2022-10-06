@@ -1,14 +1,8 @@
-# Script-IAC-
 
- (Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões)
- 
- 
- 
- 
 #!/bin/bash
 
-
-
+(Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões)
+ 
 
 echo  "Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões"
 
